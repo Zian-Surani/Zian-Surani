@@ -1,5 +1,35 @@
 # 💫 About Me:
-# 👋 Hi, I'm Zian Rajeshkumar Surani<br><br>🎓 Computer Science Student @ SRM IST Trichy | 💡 AI/ML Enthusiast | 🚀 Entrepreneur<br><br>Welcome to my GitHub! I'm passionate about building intelligent systems, automating real-world problems, and working on innovative tech that drives impact.<br><br>## 💼 Current Roles<br>- 🧠 Research Intern at NIT Trichy<br>- 🎨 9.8 GPA Holder<br><br>## 🚀 Projects & Interests<br>- 🤖 Deep Learning & Computer Vision (Reading Difficulty Detection, Vending Automation)<br>- 🚜 AgriTech (Kisan Mithran – Crop & Disease Prediction)<br>- 🛰 UAV Pathfinding using 2.5D Voxel Maps<br>- 🎮 Gamification of Education (Parsing Concepts Game)<br>- 💼 FinTech Innovations for Social Impact<br><br>## 📚 Publications & Talks<br>- Multiple research papers in AI, Automation, and FinTech<br><br>## 📫 Connect With Me<br>- 🌐Limkedin: https://www.linkedin.com/in/zian-rajeshkumar-surani-125215195<br>- Portfolio: https://zian-surani-portfolio.vercel.app/<br>- 💌 Email: zian.surani@gmail.com  <br>- 🗓 Always open to collaboration and ideas!<br><br>---<br><br>🌟 *"Solving real-world problems through tech is not just a passion — it’s a purpose."*<br>
+# 👋 Hi, I'm Zian Rajeshkumar Surani<br><br>
+
+
+🎓 Computer Science Student @ SRM IST Trichy | 💡 AI/ML Enthusiast | 🚀 Entrepreneur
+
+Welcome to my GitHub! I'm passionate about building intelligent systems, automating real-world challenges, and creating innovative tech that drives meaningful impact.
+
+## 💼 Current Roles
+- 🧠 Research Intern @ NIT Trichy  
+- 📊 9.8 GPA Holder @ SRM IST Trichy
+
+## 🚀 Projects & Interests
+- 🤖 Deep Learning & Computer Vision (Reading Difficulty Detection, Vending Automation)
+- 🚜 AgriTech (Kisan Mithran – Crop & Disease Prediction)
+- 🛰 UAV Pathfinding using 2.5D Voxel Maps
+- 🎮 Gamification of Education (Parsing Concepts Game)
+- 💼 FinTech Innovations for Social Impact
+
+## 📚 Publications & Talks
+- Authored multiple research papers in AI, Automation, and FinTech
+
+## 📫 Connect With Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/zian-rajeshkumar-surani-125215195)  
+- 🖥 [Portfolio](https://zian-surani-portfolio.vercel.app/)  
+- 💌 Email: zian.surani@gmail.com  
+- 🤝 Always open to collaboration and exciting ideas!
+
+---
+
+🌟 *"Solving real-world problems through tech is not just a passion — it’s a purpose."*
+
 
 
 ## 🌐 Socials:
