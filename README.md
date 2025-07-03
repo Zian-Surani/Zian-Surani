@@ -1,7 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Zian Rajeshkumar Surani<br><br>
-
-
+# 👋 Hi, I'm Zian Rajeshkumar Surani<br>
 🎓 Computer Science Student @ SRM IST Trichy | 💡 AI/ML Enthusiast | 🚀 Entrepreneur
 
 Welcome to my GitHub! I'm passionate about building intelligent systems, automating real-world challenges, and creating innovative tech that drives meaningful impact.
