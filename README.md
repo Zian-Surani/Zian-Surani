@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm passionate about building intelligent systems, automat
 
 ## 💼 Current Roles
 - 🧠 Research Intern @ NIT Trichy  
-- 📊 9.8 GPA Holder @ SRM IST Trichy
+- 📊 9.85 GPA Holder @ SRM IST Trichy
 
 ## 🚀 Projects & Interests
 - 🤖 Deep Learning & Computer Vision (Reading Difficulty Detection, Vending Automation)
