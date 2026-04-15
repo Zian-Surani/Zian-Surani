@@ -5,7 +5,7 @@
 Welcome to my GitHub! I'm passionate about building intelligent systems, automating real-world challenges, and creating innovative tech that drives meaningful impact.
 
 ## 💼 Current Roles
-- 🧠 Research Intern @ NIT Trichy  
+- 🧠 AI Engineer Intern @CELTM
 - 📊 9.85 GPA Holder @ SRM IST Trichy
 
 ## 🚀 Projects & Interests
